@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bad99c12-71b0-48da-908c-4d86fc37e011" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YX3IT4ZQ2mQnlTDGlHNVgtDP0u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Polina\Desktop\diplom\main\template\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Polina\Desktop\diplom\main\static\img\portfolio\details" />
+      <recent name="C:\Users\Polina\Desktop\diplom\main\static\img\bg" />
+      <recent name="C:\Users\Polina\Desktop\diplom\main\static\img\portfolio" />
+      <recent name="C:\Users\Polina\Desktop\diplom\main\static\fonts" />
+      <recent name="C:\Users\Polina\Desktop\diplom\main" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bad99c12-71b0-48da-908c-4d86fc37e011" name="Default Changelist" comment="" />
+      <created>1583075031722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583075031722</updated>
+      <workItem from="1583075033871" duration="9474000" />
+      <workItem from="1583152813614" duration="2036000" />
+      <workItem from="1583162311495" duration="27455000" />
+      <workItem from="1583314914964" duration="2085000" />
+      <workItem from="1583503763253" duration="778000" />
+      <workItem from="1583528214314" duration="5444000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="163" key="#Inspections" timestamp="1583080663327">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="163" key="#Inspections/0.0.1680.1010@0.0.1680.1010" timestamp="1583080663327" />
+    <state x="585" y="315" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583173809037">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="585" y="315" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1583173809037" />
+    <state x="341" y="147" key="SettingsEditor" timestamp="1583081788412">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="147" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1583081788412" />
+    <state x="548" y="332" key="com.intellij.ide.util.TipDialog" timestamp="1583503926249">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="548" y="332" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1583503926249" />
+    <state x="548" y="134" width="586" height="732" key="find.popup" timestamp="1583179949341">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="548" y="134" width="586" height="732" key="find.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1583179949341" />
+  </component>
+</project>

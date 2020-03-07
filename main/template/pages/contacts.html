@@ -1,0 +1,62 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block content %}
+<section class="breadcrumbs-area gray-bg ptb-100 port bread-card solid-color">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <div class="breadcrumbs">
+                            <h2 class="page-title">Контакты</h2>
+                            <ul>
+                                <li>
+                                    <a class="active" href="main.html">Главная</a>
+                                </li>
+                                <li>
+                                    <a class="active2" href="contacts.html">Контакты</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+		<!-- breadcrumbs end -->
+        <section class="contact-area ptb-100">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div style="position:relative;overflow:hidden;">
+                            <iframe src="https://yandex.ru/map-widget/v1/-/CKeEm4oF" width="100%" height="400" style="position:relative; border: none;"></iframe>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="conract-area-bottom">
+                            <h3 class="main-contact">Мы готовы к вашим предложениям</h3>
+                            <form id="contact-form" action="mail.php" method="post">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="main-input">
+                                            <input name="name" placeholder="ФИО*" type="text">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="main-input mrg-eml mrg-contact">
+                                            <input name="email" placeholder="e-mail*" type="email">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12"></div>
+                                    <div class="col-md-12">
+                                        <div class="text-leave2">
+                                            <textarea name="message" placeholder="Введите текст сообщения"></textarea>
+                                            <button class="submit" type="submit">Отправить</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                            <p class="form-messege"></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+{% endblock %}
